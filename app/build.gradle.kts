@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mad_prac2"
+    namespace = "sg.edu.np.mad.madpractical2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mad_prac2"
+        applicationId = "sg.edu.np.mad.madpractical2"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
